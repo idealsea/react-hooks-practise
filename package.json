@@ -5,6 +5,7 @@
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0"
   },
   "scripts": {
@@ -27,5 +28,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idealsea/react-hooks-practise.git"
+  },
+  "keywords": [
+    "react-hooks"
+  ],
+  "author": "ideal_sea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idealsea/react-hooks-practise/issues"
+  },
+  "homepage": "https://github.com/idealsea/react-hooks-practise#readme"
 }
